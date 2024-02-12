@@ -12,7 +12,7 @@ function App() {
 
   return (<>
   <Button value="2"></Button>
-   <button onClick={handleClick}>Bosing</button>
+ 
   
   </>
    
