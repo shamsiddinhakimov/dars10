@@ -24,3 +24,5 @@ export default function ExampleComponent({ value }) {
   
     return <div>{expensiveCalculation}</div>;
   }
+
+
